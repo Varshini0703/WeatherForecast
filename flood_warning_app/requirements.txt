@@ -1,0 +1,10 @@
+requests
+Pillow
+pycountry
+pytz
+timezonefinder
+ttkbootstrap
+pygame
+opencv-python
+tkintermapview
+pyttsx3
