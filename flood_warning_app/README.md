@@ -1,4 +1,4 @@
-# Avoid Floods In Your City
+# Weather Forecast
 
 A Python desktop app that shows real-time weather data with flood warnings and a 5-day forecast map.
 
